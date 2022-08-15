@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ghayurarif
+- 👋 Hi, I’m @ghayuraarif
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Web-development
